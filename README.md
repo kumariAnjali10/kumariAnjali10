@@ -2,12 +2,11 @@
 <h3 align="center">A passionate Web Developer Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/3d9ef72111f57a8c333f2d42a3cf14280024312c295f4b343cbc0da59005a9e0/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3333313236352f73637265656e73686f74732f323534323538372f676162692d642e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarianjali10&label=Profile%20views&color=0e75b6&style=flat" alt="kumarianjali10" /> </p>
-- 🔭 I’m currently working on CSE Fundamentals
 
+- 🔭 I’m currently working on CSE Fundamentals
 - 🌱 I’m currently learning **Java,React,Springboot**
 - 💬 Ask me about DBMS, MySQL, JAVA
 - 😄 Pronouns: She/Her
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
