@@ -98,4 +98,3 @@
 
 ---
 
-This version includes a centered layout for the header, a more balanced placement of images, and a clear structure for your information. The sections are separated with horizontal lines for better readability. The stats are also centered for a more cohesive look.
